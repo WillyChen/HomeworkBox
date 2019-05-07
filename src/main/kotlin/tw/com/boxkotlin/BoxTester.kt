@@ -20,6 +20,6 @@ fun main(args: Array<String>) {
         println("Box5")
     }
     else {
-        println("Box out")
+        println("Box Out...")
     }
 }
